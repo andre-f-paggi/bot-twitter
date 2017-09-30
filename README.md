@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars3.githubusercontent.com/u/30732658?v=4&s=200" alt="BackEnd Brasil" width="230" />
+</p>
+
 # Bot Twitter
 
 Bot Twitter para postar as issues randomicas de organizações do GitHub
