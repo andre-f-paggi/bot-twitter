@@ -1,0 +1,37 @@
+{
+  "name": "bot-twitter",
+  "version": "1.0.0",
+  "description": "Bot de integração do repositório Github do backend-br para o twitter",
+  "main": "src/server.js",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.10.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node \"src/server.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backend-br/bot-twitter.git"
+  },
+  "keywords": [
+    "twitter-api",
+    "github",
+    "backend-br"
+  ],
+  "author": "André Franciscato Paggi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/backend-br/bot-twitter/issues"
+  },
+  "homepage": "https://github.com/backend-br/bot-twitter#readme"
+}
